@@ -1,0 +1,22 @@
+Hamburger,1.85,9,33,1
+Salad,2.00,1,11,5
+French Fries,1.30,11,36,4
+Soda,0.95,0,38,0
+Pizza Slice,1.75,10,36,3
+Cheeseburger,1.95,10,34,1
+Veggieburger,2.25,6,6,3
+Hot Dog,1.00,26,4,0
+Taco,1.00,13,20,4
+Burrito,2.50,6,33,1
+Chicken Sandwich,4.00,16,21,2
+Wings,5.00,7,0,0
+Nuggets,3.00,20,14,2
+Onion Rings,1.30,25,44,3
+Poutine,2.00,8,27,5
+Water,0.50,0,0,0
+Coffee,1.00,0,0,0
+Tea,1.00,0,0,0
+Milkshake,2.00,3,18,0
+Muffin,1.00,16,54,1
+Donut,1.00,14,23,1
+Cookie,0.50,24,65,2
